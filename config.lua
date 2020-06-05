@@ -1,8 +1,8 @@
 Config = {}
 Config.Locale = 'en' -- Localizacion
 
-Config.CurrencyPrefix = '€' -- Ej. € para Euros - estara despues del precio
-Config.CurrencySuffix = '' -- Aqui por si la moneda tiene que ir delante, se tiene que poner un espacio al principio.
+Config.CurrencyPrefix = '$' -- Ej. para dolares - se situa como prefijo
+Config.CurrencySuffix = ' €' -- para € debemos poner el espacio al principio
 
 Config.Zones = {
     BikeRental = {
